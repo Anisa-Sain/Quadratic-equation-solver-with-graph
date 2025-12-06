@@ -3,6 +3,8 @@
 A simple MATLAB script that solves a user-defined quadratic equation, plots the graph, and displays the roots clearly.  
 Created for the ENGFF003 – Computer Methods Mini Project.
 
+A major flaw of this old project was that my main if statement doesn't account for the possibility of typos/someone typing somthing random into the input prompt. If I were to redo this project, this is definetly the first thing I would change!
+
 ---
 
 ## What it does
@@ -39,6 +41,7 @@ After entering values for a, b, and c, the program:
 4. View the results and graph
 
 ---
+
 
 
 
