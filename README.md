@@ -1,6 +1,4 @@
-﻿# Quadratic-equation-solver-with-graph
-
-# Quadratic Equation Solver (MATLAB)
+# Quadratic Equation Solver with graph (MATLAB)
 
 A simple MATLAB script that solves a user-defined quadratic equation, plots the graph, and displays the roots clearly.  
 Created for the ENGFF003 – Computer Methods Mini Project.
@@ -41,6 +39,7 @@ After entering values for a, b, and c, the program:
 4. View the results and graph
 
 ---
+
 
 
 
